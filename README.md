@@ -316,3 +316,10 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
   <b>Made with ❤️ for the SEO & developer community</b><br>
   <sub>⭐ Star this repo if you find it useful – it helps others discover it!</sub>
 </p>
+
+---
+
+## Credits
+
+This repository was mirrored from [https://github.com/Kirankumarvel/seo-site-auditor](https://github.com/Kirankumarvel/seo-site-auditor).
+All credit goes to the original authors.
